@@ -1,0 +1,4 @@
+# Static site. Netlify publishes this directory as-is.
+# Production deploys happen only from main, via GitHub Actions.
+[build]
+  publish = "."
